@@ -9,7 +9,7 @@ import math
 import matplotlib.pyplot as plt
 import scipy.io as sio
 from numpy import inf
-import autograd.numpy as np
+import numpy as np
 import matlab.engine
 from scipy.integrate import odeint, solve_ivp
 
